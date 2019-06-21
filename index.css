@@ -1,0 +1,99 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#wrap{
+    height:auto;
+    width: 1400px;
+    background: red;
+    margin: auto;
+
+}
+
+#header
+{
+    height: 100px;
+    width:1400px;
+    text-align: center;
+    font-size: 50px;
+    color:white;
+    background:rgb(230, 152, 9);
+    line-height: 100px;
+}
+
+
+#test
+{
+    height: 300px;
+    width: 1400px;
+    background: wheat;
+    
+}
+
+#test_1, #test_2,#test_3,#test_4,#test_5,#test_6
+{
+    height: 100px;
+    width: 100px;
+    background: whitesmoke;
+    float: left;
+    border: 1px solid;
+    margin-left: 110px;
+    margin-top: 70px;
+    font-size: 40;
+    text-align: center;
+    line-height: 100px;
+    color:rgb(39, 27, 27);
+}
+
+#guess {
+    height: 70px;
+    width: 500px;
+    background:wheat;
+    border: 1px solid;
+    float: left;
+    font-size: 40px;
+    margin-left: 440px;
+    margin-top: 30px;
+    text-align: center;
+    line-height: 70px;
+    
+    
+}
+
+#alphabets
+{
+    height: 300px;
+    width: 1400px;
+    background: rgb(235, 183, 87);
+}
+
+
+#alphabets input
+{
+    height: 50px;
+    width: 50px;
+    font-size: 30px;
+    margin-left: 55px;
+    margin-top: 40px;
+    border: 1px solid;
+    border-radius: 10px;   
+}
+
+#refresh{
+    height: 100px;
+    width: 1400px;
+    background: yellow;
+    margin: auto;
+}
+
+#refresh_button{
+    height: 50px;
+    width: 100px;
+    background: blue;
+    font-size: 20px;
+    text-align: center;
+    margin-left:620px;
+    margin-top: 20px; 
+
+}
